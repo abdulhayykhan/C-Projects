@@ -10,7 +10,7 @@ A simple yet effective console-based task manager that allows users to:
 ✔️ Remove completed tasks  
 ✔️ View pending tasks  
 
-[🔗 View Code](#)  
+[🔗 View Code](https://github.com/abdulhayykhan/C-Projects/blob/main/To-Do%20List%20Manager.cpp)  
 
 ### 🎓 Student Management System  
 A structured program to store and manage student records, including:  
@@ -18,7 +18,7 @@ A structured program to store and manage student records, including:
 ✔️ Updating student details  
 ✔️ Displaying student information  
 
-[🔗 View Code](#)  
+[🔗 View Code](https://github.com/abdulhayykhan/C-Projects/blob/main/Student%20Management%20System.cpp)  
 
 ### 📚 Library Management System  
 A console-based system for managing books in a library, allowing users to:  
@@ -26,7 +26,7 @@ A console-based system for managing books in a library, allowing users to:
 ✔️ Issue and return books  
 ✔️ View available books  
 
-[🔗 View Code](#)  
+[🔗 View Code](https://github.com/abdulhayykhan/C-Projects/blob/main/Library%20Management%20System.cpp)  
 
 ### 📏 Unit Converter  
 A handy tool to convert various units, supporting:  
@@ -34,7 +34,7 @@ A handy tool to convert various units, supporting:
 ✔️ Length (Meters ↔ Feet)  
 ✔️ Weight (Kilograms ↔ Pounds)  
 
-[🔗 View Code](#)  
+[🔗 View Code](https://github.com/abdulhayykhan/C-Projects/blob/main/Unit%20Converter.cpp)  
 
 ## 🛠 Technologies Used  
 - **C++** for development  
