@@ -1,68 +1,47 @@
-🚀 C++ Projects
-Welcome to my C++ Projects repository! This collection showcases various C++ programs designed to enhance problem-solving skills, data handling, and interactive user experiences. Each project is built with a focus on simplicity, efficiency, and real-world applications.
+# 🚀 C++ Projects  
 
-📌 Projects Included
-📝 To-Do List Manager
-A simple yet effective console-based task manager that allows users to:
-✔️ Add new tasks
-✔️ Remove completed tasks
-✔️ View pending tasks
+Welcome to my **C++ Projects** repository! This collection showcases various C++ programs designed to enhance problem-solving skills, data handling, and interactive user experiences. Each project is built with a focus on simplicity, efficiency, and real-world applications.  
 
-🔗 View Code
+## 📌 Projects Included  
 
-🎓 Student Management System
-A structured program to store and manage student records, including:
-✔️ Name, Roll Number, and Grades
-✔️ Updating student details
-✔️ Displaying student information
+### 📝 To-Do List Manager  
+A simple yet effective console-based task manager that allows users to:  
+✔️ Add new tasks  
+✔️ Remove completed tasks  
+✔️ View pending tasks  
 
-🔗 View Code
+[🔗 View Code](#)  
 
-📚 Library Management System
-A console-based system for managing books in a library, allowing users to:
-✔️ Add and remove books
-✔️ Issue and return books
-✔️ View available books
+### 🎓 Student Management System  
+A structured program to store and manage student records, including:  
+✔️ Name, Roll Number, and Grades  
+✔️ Updating student details  
+✔️ Displaying student information  
 
-🔗 View Code
+[🔗 View Code](#)  
 
-📏 Unit Converter
-A handy tool to convert various units, supporting:
-✔️ Temperature (Celsius ↔ Fahrenheit)
-✔️ Length (Meters ↔ Feet)
-✔️ Weight (Kilograms ↔ Pounds)
+### 📚 Library Management System  
+A console-based system for managing books in a library, allowing users to:  
+✔️ Add and remove books  
+✔️ Issue and return books  
+✔️ View available books  
 
-🔗 View Code
+[🔗 View Code](#)  
 
-🛠 Technologies Used
-C++ for development
-Standard I/O Handling for interactive console-based applications
-Basic Data Structures for efficient data storage
-🔥 How to Run
-Clone the repository:
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/Cplusplus-Projects.git
-Navigate to the project directory:
-sh
-Copy
-Edit
-cd Cplusplus-Projects
-Compile the desired project using a C++ compiler:
-sh
-Copy
-Edit
-g++ project_name.cpp -o project_name
-Run the compiled executable:
-sh
-Copy
-Edit
-./project_name
-🤝 Contributing
-Have an idea to improve these projects? Feel free to fork the repository, submit pull requests, or report issues!
+### 📏 Unit Converter  
+A handy tool to convert various units, supporting:  
+✔️ Temperature (Celsius ↔ Fahrenheit)  
+✔️ Length (Meters ↔ Feet)  
+✔️ Weight (Kilograms ↔ Pounds)  
 
-📜 License
-This repository is open-source under the MIT License.
+[🔗 View Code](#)  
 
-💡 Let’s build and learn together! If you find these projects useful, don’t forget to ⭐ the repository!
+## 🛠 Technologies Used  
+- **C++** for development  
+- **Standard I/O Handling** for interactive console-based applications  
+- **Basic Data Structures** for efficient data storage  
+
+## 🔥 How to Run  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/yourusername/Cplusplus-Projects.git
