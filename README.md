@@ -41,24 +41,6 @@ A handy tool to convert various units, supporting:
 - **Standard I/O Handling** for interactive console-based applications  
 - **Basic Data Structures** for efficient data storage  
 
-## 🔥 How to Run  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/yourusername/Cplusplus-Projects.git
-   ```  
-2. Navigate to the project directory:  
-   ```sh
-   cd Cplusplus-Projects
-   ```  
-3. Compile the desired project using a C++ compiler:  
-   ```sh
-   g++ project_name.cpp -o project_name
-   ```  
-4. Run the compiled executable:  
-   ```sh
-   ./project_name
-   ```  
-
 ## 🤝 Contributing  
 Have an idea to improve these projects? Feel free to fork the repository, submit pull requests, or report issues!  
 
