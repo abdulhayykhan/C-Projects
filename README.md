@@ -1,4 +1,4 @@
-# 🚀 C++ Projects  
+# 🚀 C++ Mini Projects  
 
 Welcome to my **C++ Projects** repository! This collection showcases various C++ programs designed to enhance problem-solving skills, data handling, and interactive user experiences. Each project is built with a focus on simplicity, efficiency, and real-world applications.  
 
